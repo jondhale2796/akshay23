@@ -1,0 +1,3 @@
+chromedriverkey=webdriver.chrome.driver
+chromedrivervalue=/resources/chromedriver.exe
+appurl=http://demo.automationtesting.in/Register.html

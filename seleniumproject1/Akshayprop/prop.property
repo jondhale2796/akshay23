@@ -1,0 +1,7 @@
+chromedriverkey=webdriver.chrome.driver
+chromedrivervalue=Resources/chromedriver.exe
+
+appurl=http//:google.com
+username=admin
+password=admin123
+loginpagetitle=google
